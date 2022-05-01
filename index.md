@@ -3,6 +3,8 @@ layout: base.njk
 title: Eleventy Blog One
 ---
 
-## [Web Components](posts/firstpost.md)
+My Blog
 
-## [GeoIP API](posts/secondpost.md)
+## [Web Components](posts/firstpost)
+
+## [GeoIP API](posts/secondpost)
